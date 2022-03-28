@@ -1,9 +1,9 @@
 {
-"VERSIÓN":"1.0",
+"VERSIÓN":"1.1",
 "MODE01":"directo",
-"SERVERNAME01":"EDICIÓN NT",
-"SERVIDOR01":"s1.ntinjectorpro.xyz",
-"IPSERVER01":"45,162,230",
+"SERVERNAME01":"PREPAGO1",
+"SERVIDOR01":"200.73.134.119",
+"IPSERVER01":"200.73.134.119",
 "PORT01":"80",
 "BUGHOST01":"mobilidade.cloud.caixa.gov.br",
 "MODO02":"sslpay",
